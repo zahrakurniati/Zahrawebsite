@@ -114,12 +114,10 @@ h1 {
 p.description {
   max-width: 600px;
   margin: 0 auto 3rem auto;
-  color: #ffffff;
+  color: #172863;
   font-size: 1rem;
   text-align: center;
   user-select: none;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-style: italic;
 }
 
 .gallery-grid {
